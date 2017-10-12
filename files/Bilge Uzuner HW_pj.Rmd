@@ -1,0 +1,34 @@
+---
+title: "Interesting R Examples"
+author: "Bilge Uzuner - BDA 503 - Fall 2017"
+---
+```{r,echo=FALSE,results="hide"}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+```{r,echo=FALSE,eval=FALSE}
+rmarkdown::render("/Users/berkorbay/Dropbox/Courses_given/MEF_BDA_503_2017F/Guidelines/example_homework_1.Rmd",output_format="pdf_document")
+rmarkdown::render("/Users/berkorbay/Dropbox/Courses_given/MEF_BDA_503_2017F/Guidelines/example_homework_1.Rmd",output_format="html_document")
+```
+
+1. [Most popular definitions](http://shakthydoss.com/technical/what-is-the-difference-between-artificial-intelligence-machine-learning-statistics-and-data-mining/)
+
+    If many definitions are circulating around and the heads are confused, I would recommend reading article that I find useful for clarifying these most popular definitions.
+
+2. [Reasons for ](https://www.simplilearn.com/21-reasons-to-learn-r-python-and-hadoop-article)
+
+    If you're considering starting or advancing your career in the field of Big Data and data science, you will be interested with the article. This article describes three popular programming languages you might want to learn to give that career move a boost: R, Python and Hadoop.
+    
+3. [First Loop in R](https://www.r-bloggers.com/how-to-write-the-first-for-loop-in-r/)
+
+    If you are new in programing, loops can be frightening. In this tutorial you can have a look at how you can write a basic for loop in R. 
+    
+4. [Where to start](http://www.datasciencecentral.com/profiles/blogs/r-python-or-sas-which-one-should-you-learn-first)
+
+    Many data scientists use multiple languages and if you know one, you can learn the others pretty easy. But if you have no previous experience in any of these and want to transition into the world of Analytics and don't know where to start; You may find the article interesting.
+    
+5. [Tutorials for different levels](http://www.listendata.com/p/r-programming-tutorials.html)
+
+    R language is the world's most widely used programming language for statistical analysis, predictive modeling and data science. R programming language tutorials are listed below which are ideal for beginners to advanced users. You may find various of R language tutorials; designed for not only novice users who have no programming background or new to R programming language but also people who want to build a career in predictive modeling and data science. This article also includes basics of text mining with R. Much appreciated for everyone in any level.
+    
