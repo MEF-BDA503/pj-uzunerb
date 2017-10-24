@@ -2,7 +2,7 @@
 
 ## Week 3 (Oct 24)
 
-+ The data set I am propose to use in my project is the 1000 Cameras data set. [Here](files/1000-cameras.html) is the data and my initial exploratory data analysis on it.
++ The data set I am propose to use in my project is the 1000 Cameras data set. [Here](files/1000-cameras_.html) is the data and my initial exploratory data analysis on it.
 
 + We decided on the groups. Our group name is **datING** and other members are Türkan Sevgili and Sefa Erbaş.
 
