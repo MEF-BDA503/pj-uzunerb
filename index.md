@@ -1,5 +1,8 @@
 # Bilge Uzuner Progress Journal
 
+## Week 5 (Nov 21)
+[Here](esoph2.html) is my individual assignment about esoph data.
+
 ## Week 3 (Oct 24)
 
 + The data set I am propose to use in my project is the 1000 Cameras data set. [Here](files/1000-cameras_.html) is the data and my initial exploratory data analysis on it.
